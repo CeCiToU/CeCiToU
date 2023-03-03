@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm learning C# and p5.js<br>Posting only working stuff<br>I know basic C# and  I can work with databases
+I'm learning C#, MySQL and p5.js<br>Posting only working stuff<br>I know C# and  I can work with databases.
+Currently working on desktop app.
 
 
 ## 🌐 Socials:
