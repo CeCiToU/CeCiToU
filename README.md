@@ -1,5 +1,16 @@
 # 💫 About Me:
-I'm a 12th-grade student currently studying mathematics and physics. Alongside my academic pursuits, I'm in my last year at SoftUni, where I have been expanding my knowledge and skills in various areas of programming. My true passion lies in programming, and I thoroughly enjoy utilizing Arduino to create systems and projects that leverage my programming skills and incorporate electronic components. Through my studies, I have acquired skills in circuit design, prototyping, and programming Arduino boards, allowing me to develop functional electronic systems. To showcase my projects and contribute to the community, I maintain this GitHub profile where I share code samples, collaborate with others, and demonstrate my interests in programming, mathematics, and physics. Looking towards the future, I'm excited to continue exploring the intersection of programming, electronics, and scientific principles, with potential career paths in fields such as electrical engineering, applied physics, artificial intelligence, or research and development in cutting-edge technologies.
+I am a first-year Cybersecurity student at the Technical University of Sofia, with a background in programming, mathematics, and physics. My passion lies at the intersection of technology, problem-solving, and innovation, which has fueled my interest in software development and cybersecurity.
+
+During my academic and professional journey, I’ve worked on a variety of projects, including:
+
+  * Interactive Solar System (ISS): A dynamic visualization of the solar system, enhancing spatial and planetary understanding.
+  * Pixelator: A creative tool for transforming images into pixel art.
+  * Both Sides of the Coin: An interactive educational tool showcasing the duality of concepts through real-world scenarios and engaging visualizations.
+  * PlanMe: A versatile planning application for schedules, shopping lists, and more, featuring a daily dose of inspiration with quotes from brilliant minds like Albert Einstein.
+
+With a growing interest in cybersecurity, I strive to blend my technical expertise in software development with a deep understanding of security principles to create robust and secure systems. I’m also enthusiastic about contributing to the open-source community, collaborating with like-minded professionals, and continuously expanding my skillset to stay at the forefront of technological advancements.
+
+Looking forward, I aim to explore career paths in cybersecurity, secure software engineering, and innovative technology development, all while maintaining a focus on building impactful and reliable solutions.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/CeCiToU#8297) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cvetoslavangelov) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TsvetoslavAngelov) 
