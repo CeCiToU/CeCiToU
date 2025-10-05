@@ -37,7 +37,7 @@ Looking ahead, I plan to explore **cybersecurity, secure software engineering, a
 ### Lithophane Moonlight (Moon Lamp)
 Custom RGB moon lamp built from lithophane art, controlled by potentiometers. Comes with optional auto shutoff feature (fades out after 3 hours).  
 + [Buy one](https://www.instagram.com/pingulinx_/)
-+ [Project link](github.com/CeCiToU/Lithophane-Moonlight)
++ [Project link](https://github.com/CeCiToU/Lithophane-Moonlight)
 
 ### Interactive Solar System (ISS)
 Visualizes planetary motion dynamically, helping to understand spatial relationships in the solar system.  
