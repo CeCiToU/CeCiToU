@@ -1,4 +1,4 @@
-# 💫 About Me
+# Hi 👋, I'm Tsvetoslav
 I am a second-year **Cybersecurity student** at the Technical University of Sofia, with a strong foundation in programming, mathematics, and physics. My passion lies at the intersection of **technology, problem-solving, and innovation**, which drives my interest in software development, hardware projects, and cybersecurity.
 
 I have worked on a variety of projects, including:
@@ -13,26 +13,11 @@ I have worked on a variety of projects, including:
 I aim to combine my skills in **software and hardware development** with **cybersecurity principles** to create secure, robust, and innovative solutions. I am also passionate about contributing to **open-source projects**, collaborating with like-minded professionals, and continuously learning to stay at the forefront of technology.
 
 Looking ahead, I plan to explore **cybersecurity, secure software engineering, and tech innovation**, while focusing on building impactful and reliable solutions.
-
 ---
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CeCiToU)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cvetoslavangelov)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TsvetoslavAngelov)  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CeCiToU" alt="CeCiToU" /></a> </p>
 
----
-
-# 💻 Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
-
-# 📂 Featured Projects
+- # 📂 Featured Projects
 
 ### Lithophane Moonlight (Moon Lamp)
 Custom RGB moon lamp built from lithophane art, controlled by potentiometers. Comes with optional auto shutoff feature (fades out after 3 hours).  
@@ -55,19 +40,39 @@ Interactive tool demonstrating the duality of concepts with engaging visualizati
 ### PlanMe
 Planning application for schedules, shopping lists, with daily inspirational quotes.  
 + [Project link](https://github.com/Proto69/PlanMe)
+  
+- 🔭 I'm currently working on **A SAP project involving version control system**
 
+- 🌱 I'm currently learning **VCS**
+
+- 👯 I'm looking to collaborate on **VCS**
+
+- 🤝 I'm looking for help with **VCS**
+
+- 💬 Ask me about **Hardware**
+
+- 📫 How to reach me **cveti3060@gmail.com**
+
+- ⚡ Fun fact **My hobby involves 3d printing.**
 ---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/haskell" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
 
-# 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CeCiToU&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CeCiToU&theme=dark&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CeCiToU&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CeCiToU&show_icons=true&locale=en&layout=compact" alt="CeCiToU" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CeCiToU&show_icons=true&locale=en" alt="CeCiToU" /></p>
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=CeCiToU&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CeCiToU&" alt="CeCiToU" /></p>
 
----
 
-[![Profile Visits](https://visitcount.itsvg.in/api?id=CeCiToU&icon=0&color=9)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/CeCiToU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CeCiToU" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tsvetoslav-angelov-b7241824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tsvetoslav-angelov-b7241824a/" height="30" width="40" /></a>
+<a href="https://instagram.com/cvetoslavangelov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cvetoslavangelov" height="30" width="40" /></a>
+<a href="https://leetcode.com/CeCiToU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CeCiToU" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/CeCiToU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/CeCiToU" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CeCiToU&label=Profile views&color=0e75b6&style=flat" alt="CeCiToU" /> </p>
+
