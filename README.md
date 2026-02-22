@@ -41,19 +41,19 @@ Interactive tool demonstrating the duality of concepts with engaging visualizati
 Planning application for schedules, shopping lists, with daily inspirational quotes.  
 + [Project link](https://github.com/Proto69/PlanMe)
   
-- 🔭 I'm currently working on **A SAP project involving version control system**
+- 🔭 I’m currently working as a **Technical Assistant in an industrial automation company**, building and wiring control panels with PLCs and developing machine control programs.
 
-- 🌱 I'm currently learning **VCS**
+- 🌱 I’m currently deepening my knowledge in **Cybersecurity, secure system design, and industrial control systems (ICS/OT security)**.
 
-- 👯 I'm looking to collaborate on **VCS**
+- 👯 I’m looking to collaborate on **automation, embedded systems, backend development, and security-oriented projects**.
 
-- 🤝 I'm looking for help with **VCS**
+- 🤝 I’m looking for help with **calable system design, prototype designing and much more**.
 
-- 💬 Ask me about **Hardware**
+- 💬 Ask me about **PLC programming, control panels, embedded hardware projects, Arduino, and system-level problem solving**.
 
-- 📫 How to reach me **cveti3060@gmail.com**
+- 📫 How to reach me: **cveti3060@gmail.com**
 
-- ⚡ Fun fact **My hobby involves 3d printing.**
+- ⚡ Fun fact: I design and build functional **3D-printed hardware projects**, combining electronics and software into real products.
 ---
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dotnet" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/haskell" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=haskell" alt="haskell" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
