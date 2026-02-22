@@ -40,7 +40,7 @@ Interactive tool demonstrating the duality of concepts with engaging visualizati
 ### PlanMe
 Planning application for schedules, shopping lists, with daily inspirational quotes.  
 + [Project link](https://github.com/Proto69/PlanMe)
-  
+---
 - 🔭 I’m currently working as a **Technical Assistant in an industrial automation company**, building and wiring control panels with PLCs and developing machine control programs.
 
 - 🌱 I’m currently deepening my knowledge in **Cybersecurity, secure system design, and industrial control systems (ICS/OT security)**.
@@ -73,4 +73,4 @@ Planning application for schedules, shopping lists, with daily inspirational quo
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CeCiToU&label=Profile views&color=0e75b6&style=flat" alt="CeCiToU" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CeCiToU&label=Profile%20views&color=0e75b6&style=flat" alt="CeCiToU" /> </p>
