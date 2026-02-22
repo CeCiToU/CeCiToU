@@ -90,7 +90,9 @@ My long-term focus is on **industrial automation, secure system architecture, an
 <a href="https://linkedin.com/in/tsvetoslav-angelov-b7241824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tsvetoslav-angelov-b7241824a/" height="30" width="40" /></a>
 <a href="https://instagram.com/cvetoslavangelov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cvetoslavangelov" height="30" width="40" /></a>
 <a href="https://leetcode.com/CeCiToU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="CeCiToU" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/CeCiToU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/CeCiToU" height="30" width="40" /></a>
+<a href="https://discord.com/users/540475639539564544" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CeCiToU&label=Profile%20views&color=0e75b6&style=flat" alt="CeCiToU" /> </p>
